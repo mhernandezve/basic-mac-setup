@@ -19,7 +19,7 @@ If you get anything else, then run the following command:
 
 #### Second, install Homebrew with the following command:
 
-```sudo /usr/bin/ruby - "$(curl -fSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
+```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"```
 
 
 #### Third, run the script:
