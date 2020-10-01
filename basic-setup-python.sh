@@ -4,6 +4,7 @@ cd
 defaults write com.apple.desktopservices DSDontWriteNetworkStores true
 brew cask install iterm2
 brew cask install docker
+brew install docker-compose
 brew install vault
 brew cask install jetbrains-toolbox
 brew cask install visual-studio-code
