@@ -22,6 +22,6 @@ If you get anything else, then run the following command:
 ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"```
 
 
-#### Third, run the script:
+#### Third, run the Brewfile 
 
-```curl -fsSL 'https://raw.githubusercontent.com/mhernandezve/mac_basic_setup_python/master/basic-setup-python.sh' | /usr/bin/env bash```
+```curl -fsSL 'https://raw.githubusercontent.com/mhernandezve/mac_basic_setup_python/master/Brewfile' | brew bundle --file=-```
