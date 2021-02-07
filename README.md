@@ -25,3 +25,4 @@ If you get anything else, then run the following command:
 #### Third, run the Brewfile 
 
 ```curl -fsSL 'https://raw.githubusercontent.com/mhernandezve/mac_basic_setup_python/master/Brewfile' | brew bundle --file=-```
+
